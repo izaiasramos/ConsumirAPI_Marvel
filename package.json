@@ -1,0 +1,26 @@
+{
+  "name": "consumirapi_marvel",
+  "version": "1.0.0",
+  "description": "Front-End consumindo dados da API da Marvel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izaiasramos/ConsumirAPI_Marvel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izaiasramos/ConsumirAPI_Marvel/issues"
+  },
+  "homepage": "https://github.com/izaiasramos/ConsumirAPI_Marvel#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
