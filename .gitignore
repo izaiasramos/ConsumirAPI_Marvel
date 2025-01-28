@@ -1,1 +1,3 @@
-packpage.json;
+node_modules/
+packpage.json/
+package-lock.json/
